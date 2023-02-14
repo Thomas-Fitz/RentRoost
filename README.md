@@ -68,7 +68,3 @@ This software uses the following open source packages:
 - [Vue.js](https://vuejs.org/)
 - [vue2-google-maps](https://github.com/xkjyeah/vue-google-maps)
 - [Java Spring Boot](https://spring.io/)
-
-## Links
-
-LinkedIn: https://www.linkedin.com/in/fitzpatricktom/

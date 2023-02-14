@@ -14,8 +14,6 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
 ## Key Features
 * Google Maps Integration
   - Properties pinned in map location. Geocoding information automatically tagged when a new property is added.
